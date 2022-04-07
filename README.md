@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VamsiVelamati
+- 👋 Hi, I’m @VamsiChandraVelamati
 - 👀 I’m interested in ... learning programming languages 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... MNC
